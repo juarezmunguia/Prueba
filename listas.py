@@ -9,6 +9,6 @@ l4 = l[0:6:2] #Primeros dos -> rango
 l5 = l[0::2] #Copia uno si y uno no de toda la lista
 l [0:3] = ['b','a','h'] #A partir del primer elemento cambia cada
 						# uno por b,a,h 
-#print (l2)
+print (l2)
 print (l)
-#print (l5)
+print (l5)
