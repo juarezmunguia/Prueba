@@ -8,3 +8,4 @@ t1 = t[1] #Acceder a un elemnto de una tupla
 print (t)
 print (type(t))
 print (t1)
+print(type(t))
