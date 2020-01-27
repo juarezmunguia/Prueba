@@ -1,4 +1,4 @@
-#Listras separadas por coma y entre corchetes
+#Listas separadas por coma y entre corchetes
 l = [2,"tres",True,["uno",10],3,"diez"]
 l[2] = 'a' #Cambiar valores de la lista
 l2 = l[3][1] #Acceder a un elemento de una lista dentro de otra lista
